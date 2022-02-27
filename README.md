@@ -4,6 +4,8 @@
 - 🐍 Working on becoming a Python master.
 - 🥅 2022 Goals: Develop beautiful Front End Applications and web3 Software.
 
+<br/>
+
 ### Languages and Tools
 
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
@@ -38,6 +40,7 @@
 
 
 <br/>
+<br/>
 
 
 ### 🖥 Latest Programming Projects 
@@ -49,6 +52,8 @@
 - [Stock News Tool ](https://github.com/jhoeljp/Python/tree/main/Stock_News)
 <!-- BLOG-POST-LIST:END -->
 
+<br/>
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
@@ -57,13 +62,10 @@
 </details>
 
 <br/>
-<br/>
 
 ### Contact Me 
 
-[![website](https://github.com/devicons/devicon/blob/v2.14.0/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/jhoeljp/)
-
-
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />][linkedin]
 
 
 [instagram]: https://www.instagram.com/jhoeljp/
