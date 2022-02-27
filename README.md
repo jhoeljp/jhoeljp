@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hello, I'm Jhoel 👋 
 
-<!--
-**jhoeljp/jhoeljp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Python and Web Development
+- 🥅 2022 Goals: Learn develop better Front End Applications and web3 Software.
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🖥 Latest Programming Projects 
+
+<!-- BLOG-POST-LIST:START -->
+- [Cheapest Flight Available - Python Tool](https://github.com/jhoeljp/Python/tree/main/Flight_Club)
+- [Password Manager GUI](https://github.com/jhoeljp/Python/tree/main/Password_Manager)
+- [Pomodoro Study Aid GUI](https://github.com/jhoeljp/Python/tree/main/pomodoro_GUI)
+- [Stock News Tool ](https://github.com/jhoeljp/Python/tree/main/Stock_News)
+<!-- BLOG-POST-LIST:END -->
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jhoeljp&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+</details>
+
+
+[instagram]: https://www.instagram.com/jhoeljp/
+[linkedin]: https://www.linkedin.com/in/jhoeljp/
+[tableau]: https://jhoeljp.github.io/CV/
