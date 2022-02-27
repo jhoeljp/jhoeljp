@@ -6,8 +6,38 @@
 
 ### Languages and Tools
 
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="CSharp" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="C++" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
+
+
+<img align="left" alt="R" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/r/r-original.svg" style="padding-right:10px;" />
+
 <img align="left" alt="HTML5 " width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+
+
+<br/>
+
+<img align="left" alt="Visual Studio" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Visual Studio" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+
+<br/>
+
+<img align="left" alt="Linux" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/linux/linux-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Windows" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/windows8/windows8-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="MaC" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/apple/apple-original.svg" style="padding-right:10px;" />
+
+
+<br/>
 <br/>
 
 
@@ -26,6 +56,15 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jhoeljp&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
+
+<br/>
+<br/>
+
+### Contact Me 
+
+[![website](https://github.com/devicons/devicon/blob/v2.14.0/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/jhoeljp/)
+
+
 
 
 [instagram]: https://www.instagram.com/jhoeljp/
