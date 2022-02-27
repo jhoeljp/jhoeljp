@@ -1,9 +1,13 @@
 # Hello, I'm Jhoel 👋 
 
-- 🌱 I’m currently learning Python and Web Development
-- 🥅 2022 Goals: Learn develop better Front End Applications and web3 Software.
+- 🌱 I’m currently learning Web Development.
+- 🐍 Working on becoming a Python master.
+- 🥅 2022 Goals: Develop beautiful Front End Applications and web3 Software.
 
-<br />
+### Languages and Tools
+
+<img align="left" alt="HTML5 Shield" width="26px" src="images/html5.svg" style="padding-right:10px;" />
+
 
 ### 🖥 Latest Programming Projects 
 
