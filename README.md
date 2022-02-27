@@ -6,7 +6,9 @@
 
 ### Languages and Tools
 
-<img align="left" alt="HTML5 Shield" width="26px" src="images/html5.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5 and CSS Shields" width="26px" src="images/html_css.png" style="padding-right:10px;" />
+
+<br/>
 
 
 ### 🖥 Latest Programming Projects 
