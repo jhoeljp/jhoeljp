@@ -20,7 +20,6 @@
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 
 
-<br/>
 
 <img align="left" alt="Visual Studio" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10px;" />
 
@@ -28,7 +27,8 @@
 
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
-<br/>
+
+
 
 <img align="left" alt="Linux" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/linux/linux-original.svg" style="padding-right:10px;" />
 
@@ -37,7 +37,6 @@
 <img align="left" alt="MaC" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/apple/apple-original.svg" style="padding-right:10px;" />
 
 
-<br/>
 <br/>
 
 
