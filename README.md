@@ -4,7 +4,6 @@
 - 🐍 Working on becoming a Python master.
 - 🥅 2022 Goals: Develop beautiful Front End Applications and web3 Software.
 
-<br/>
 
 ### Languages and Tools
 
