@@ -2,8 +2,17 @@
 
 - 🌱 I’m currently learning Web and App Development.
 - 🐍 Working on becoming a Python master.
-- 🥅 2022 Goals: Develop beautiful Front End Applications and web3 Software.
+- 🥅 2022 Goals: Develop beautiful Front End Applications and Interactive Dashboards.
 
+### Data Analytics 
+
+<img align="left" alt="Tableau" width="26px" src="https://www.gocrisp.com/wp-content/uploads/2021/07/Tableau-Emblem.png" style="padding-right:10px;" href="https://public.tableau.com/app/profile/jhol4417" />
+
+<img align="left" alt="R" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/r/r-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+
+<br/>
 
 ### Languages and Tools
 
@@ -13,8 +22,6 @@
 
 <img align="left" alt="C++" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
 
-
-<img align="left" alt="R" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/r/r-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="HTML5 " width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 
