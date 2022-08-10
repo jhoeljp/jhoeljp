@@ -6,7 +6,7 @@
 
 ### Data Analytics 
 
-<img align="left" alt="Tableau" width="26px" src="https://www.gocrisp.com/wp-content/uploads/2021/07/Tableau-Emblem.png" style="padding-right:10px;" href="https://public.tableau.com/app/profile/jhol4417" />
+[<img align="left" alt="Tableau" width="26px" src="https://www.gocrisp.com/wp-content/uploads/2021/07/Tableau-Emblem.png" style="padding-right:10px;" />][tableau]
 
 <img align="left" alt="R" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/r/r-original.svg" style="padding-right:10px;" />
 
@@ -75,4 +75,4 @@
 
 [instagram]: https://www.instagram.com/jhoeljp/
 [linkedin]: https://www.linkedin.com/in/jhoeljp/
-[tableau]: https://jhoeljp.github.io/CV/
+[tableau]: https://public.tableau.com/app/profile/jhol4417
