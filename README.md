@@ -1,49 +1,72 @@
 # Hello, I'm Jhoel 👋 
 
-- 🌱 I’m currently learning Data Analytics and Web development.
-- 🐍 Working on becoming a Python master.
-- 🥅 2022 Goals: Develop beautiful Front End Applications and Interactive Dashboards.
+- :seedling: I’m currently learning Web development.
+- :star: Working on becoming a Python and Data Analytics Master.
+- :dart: 2022 Goals: Develop beautiful Front End Applications and Interactive Dashboards.
 
 ### Data Analytics 
 
-[Tableau Portfolio <img align="left" alt="Tableau" width="26px" src="https://www.gocrisp.com/wp-content/uploads/2021/07/Tableau-Emblem.png" style="padding-right:10px;" />](https://public.tableau.com/app/profile/jhol4417)
+[Tableau <img align="left" alt="Tableau" width="26px" src="https://www.gocrisp.com/wp-content/uploads/2021/07/Tableau-Emblem.png" style="padding-right:10px;" />](https://public.tableau.com/app/profile/jhol4417)
 
+[Kaggle <img align="left" alt="Kaggle" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" style="padding-right:10px;" />](https://www.kaggle.com/moshtbot)
+
+<picture>
 <img align="left" alt="R" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/r/r-original.svg" style="padding-right:10px;" />
+</picture>
 
+<picture>
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+</picture>
 
 <br/>
 
-### Languages and Tools
+### Front End 
 
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="CSharp" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="C++" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
-
-
+<picture>
 <img align="left" alt="HTML5 " width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-
+</picture>
+<picture>
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+</picture>
+<picture>
+<img align="left" alt="Javascript" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+</picture>
 
+<br/>
 
+### Back End 
+<picture>
+<img align="left" alt="CSharp" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
+</picture>
+<picture>
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+</picture>
+<img align="left" alt="C++" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
+</picture>
 
+<br/>
+
+### Tools & OS
+
+<picture>
 <img align="left" alt="Visual Studio" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10px;" />
-
+</picture>
+<picture>
 <img align="left" alt="Visual Studio" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-
+</picture>
+<picture>
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+</picture>
 
-
-
-
+<picture>
 <img align="left" alt="Linux" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/linux/linux-original.svg" style="padding-right:10px;" />
-
+</picture>
+<picture>
 <img align="left" alt="Windows" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/windows8/windows8-original.svg" style="padding-right:10px;" />
-
+</picture>
+<picture>
 <img align="left" alt="MaC" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/apple/apple-original.svg" style="padding-right:10px;" />
-
+</picture>
 
 <br/>
 <br/>
@@ -70,9 +93,8 @@
 
 ### Contact Me 
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />][linkedin]
+[<img align="left" alt="LinkedIn" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />][linkedin]
 
 
-[instagram]: https://www.instagram.com/jhoeljp/
 [linkedin]: https://www.linkedin.com/in/jhoeljp/
 [tableau]: https://public.tableau.com/app/profile/jhol4417
