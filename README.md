@@ -1,12 +1,14 @@
 # Hello, I'm Jhoel 👋 
 
-- 🌱 I’m currently learning Web and App Development.
+- 🌱 I’m currently learning Data Analytics and Web development.
 - 🐍 Working on becoming a Python master.
 - 🥅 2022 Goals: Develop beautiful Front End Applications and Interactive Dashboards.
 
 ### Data Analytics 
 
-[<img align="left" alt="Tableau" width="26px" src="https://www.gocrisp.com/wp-content/uploads/2021/07/Tableau-Emblem.png" style="padding-right:10px;" />][tableau]
+[<img align="left" alt="Tableau" width="26px" src="https://www.gocrisp.com/wp-content/uploads/2021/07/Tableau-Emblem.png" style="padding-right:10px;" />]()
+
+[![name](https://www.gocrisp.com/wp-content/uploads/2021/07/Tableau-Emblem.png)](https://public.tableau.com/app/profile/jhol4417)
 
 <img align="left" alt="R" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/r/r-original.svg" style="padding-right:10px;" />
 
