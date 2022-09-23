@@ -70,7 +70,6 @@
 </picture>
 
 <br/>
-<br/>
 
 
 ### 🖥 Latest Programming Projects 
