@@ -6,10 +6,6 @@
 
 ### Data Analytics 
 
-[Tableau <img align="left" alt="Tableau" width="26px" src="https://www.gocrisp.com/wp-content/uploads/2021/07/Tableau-Emblem.png" style="padding-right:10px;" />](https://public.tableau.com/app/profile/jhol4417)
-
-[Kaggle <img align="left" alt="Kaggle" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" style="padding-right:10px;" />](https://www.kaggle.com/moshtbot)
-
 <picture>
 <img align="left" alt="R" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/r/r-original.svg" style="padding-right:10px;" />
 </picture>
@@ -18,6 +14,8 @@
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 </picture>
 
+[Tableau <img align="left" alt="Tableau" width="26px" src="https://www.gocrisp.com/wp-content/uploads/2021/07/Tableau-Emblem.png" style="padding-right:10px;" />](https://public.tableau.com/app/profile/jhol4417)
+
 <br/>
 
 ### Front End 
@@ -25,9 +23,11 @@
 <picture>
 <img align="left" alt="HTML5 " width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 </picture>
+
 <picture>
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 </picture>
+
 <picture>
 <img align="left" alt="Javascript" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 </picture>
