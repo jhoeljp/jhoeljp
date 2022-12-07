@@ -54,6 +54,7 @@
 ### 🖥 Latest Programming Projects 
 
 <!-- BLOG-POST-LIST:START -->
+- [Instagram Marketing Outreach Bot](https://github.com/jhoeljp/Python/tree/main/Instagram_Follower_Bot)
 - [Cheapest Flight Available - Python Tool](https://github.com/jhoeljp/Python/tree/main/Flight_Club)
 - [Password Manager GUI](https://github.com/jhoeljp/Python/tree/main/Password_Manager)
 - [Pomodoro Study Aid GUI](https://github.com/jhoeljp/Python/tree/main/pomodoro_GUI)
