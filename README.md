@@ -1,8 +1,8 @@
 # Hello, I'm Jhoel 👋 
 
-- :seedling: I’m currently learning Web development.
-- :star: Working on becoming a Python and Data Analytics Master.
-- :dart: 2022 Goals: Develop beautiful Front End Applications and Interactive Dashboards.
+- :seedling: I’m currently learning Docker.
+- :star: Working on becoming a Python and Data Engineer Master.
+- :dart: 2023 Goals: Develop beautiful Interactive Dashboards.
 
 ### Data Analytics 
 <img align="left" alt="R" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/r/r-original.svg" style="padding-right:10px;" />
