@@ -1,20 +1,27 @@
 # Hello, I'm Jhoel 👋 
 
-- :seedling: I’m currently learning Docker.
-- :star: Working on becoming a Python and Data Engineer Master.
-- :dart: 2023 Goals: Develop beautiful Interactive Dashboards.
+- :seedling: I’m currently learning Google Cloud.
+- :star: Working on becoming a Python Master.
+  
+:dart: 2023 Goals:
+- Develop Cloud-based applications.
+- Contribute to Open Source projects.
 
-### Data Analytics 
-<img align="left" alt="R" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/r/r-original.svg" style="padding-right:10px;" />
+## Technology familiarity :wrench:
+
+#### Back End 
+
+<img align="left" alt="CSharp" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 
-[Dashboards Portfolio <img align="left" alt="Tableau" width="26px" src="https://www.gocrisp.com/wp-content/uploads/2021/07/Tableau-Emblem.png" style="padding-right:10px;" />](https://public.tableau.com/app/profile/jhol4417)
+<img align="left" alt="C++" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
 
+<img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" style="padding-right:10px;" />
 
-### Front End 
+<br/>
 
-<img align="left" alt="FLASK " width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flask/flask-original-wordmark.svg" style="padding-right:10px;" />
+#### Front End 
 
 <img align="left" alt="HTML5 " width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 
@@ -24,43 +31,43 @@
 
 <br/>
 
-### Back End 
+#### Frameworks
 
-<img align="left" alt="CSharp" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
+<img align="left" alt="FLASK " width="26px" src="https://e7.pngegg.com/pngimages/654/56/png-clipart-flask-web-framework-python-software-framework-jinja-flask-miscellaneous-monochrome-thumbnail.png" style="padding-right:10px;" />
+
+<img align="left" alt="dot-net " width="26px" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" style="padding-right:10px;" />
+
+<br/>
+
+
+#### Data Analytics 
+
+<img align="left" alt="R" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/r/r-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="C++" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Pandas" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" style="padding-right:10px;" />
+
+[Dashboards <img align="left" alt="Tableau" width="26px" src="https://www.gocrisp.com/wp-content/uploads/2021/07/Tableau-Emblem.png" style="padding-right:10px;" />](https://public.tableau.com/app/profile/jhol4417)
 
 
-<br/>
-
-### Tools & OS
-
-
-<img align="left" alt="Visual Studio" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Visual Studio" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+#### Others
 
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="Linux" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/linux/linux-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Postgres" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="Windows" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/windows8/windows8-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="MaC" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/apple/apple-original.svg" style="padding-right:10px;" />
-
+<br/>
 <br/>
 
 
-### 🖥 Latest Programming Projects 
+## Favorite Programming Projects 🖥
 
 <!-- BLOG-POST-LIST:START -->
+- [Czech Energy Prices](https://github.com/jhoeljp/Databases/tree/main/OTE)
 - [Instagram Marketing Outreach Bot](https://github.com/jhoeljp/Python/tree/main/Instagram_Follower_Bot)
 - [Cheapest Flight Available - Python Tool](https://github.com/jhoeljp/Python/tree/main/Flight_Club)
 - [Password Manager GUI](https://github.com/jhoeljp/Python/tree/main/Password_Manager)
-- [Pomodoro Study Aid GUI](https://github.com/jhoeljp/Python/tree/main/pomodoro_GUI)
-- [Stock News Tool ](https://github.com/jhoeljp/Python/tree/main/Stock_News)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
