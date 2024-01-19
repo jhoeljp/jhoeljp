@@ -3,7 +3,7 @@
 - :seedling: I’m currently learning Google Cloud.
 - :star: Working on becoming a Python Master.
   
-:dart: 2023 Goals:
+:dart: 2024 Goals:
 - Develop Cloud-based applications.
 - Contribute to Open Source projects.
 
