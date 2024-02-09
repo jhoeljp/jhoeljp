@@ -57,6 +57,10 @@
 
 <img align="left" alt="Postgres" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
 
+<img align="left" alt="Jenkins" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" style="padding-right:10px;" />
+
+
+
 <br/>
 <br/>
 
