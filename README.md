@@ -1,10 +1,11 @@
-# Hello, I'm Jhoel 👋 
+# Hello, My Name is Jhoel 👋 
 
-- :seedling: I’m currently learning Google Cloud.
-- :star: Working on becoming a Python Master.
+🔭 Currently working on:
+- :seedling: Learning Google Cloud.
+- :star: Becoming AI and ML Competent.
   
-:dart: 2024 Goals:
-- Develop Cloud-based applications.
+:dart: 2025 Goals:
+- Develop Google Cloud based applications.
 - Contribute to Open Source projects.
 
 ## Technology familiarity :wrench:
